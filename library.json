@@ -1,0 +1,50 @@
+{
+    "books": [
+        {
+            "id": "<function Library.gen_id at 0x0000029D2A0009E0>",
+            "title": "game of thrones",
+            "author": "aaris",
+            "total_copies": 5,
+            "available_copies": 5,
+            "added_on": "2026-05-18 22:00:18.734403"
+        },
+        {
+            "id": "<function Library.gen_id at 0x000001F0C05A09E0>",
+            "title": "harry porter",
+            "author": "welis",
+            "total_copies": 10,
+            "available_copies": 10,
+            "added_on": "2026-05-18 22:02:02.096338"
+        },
+        {
+            "id": "<function Library.gen_id at 0x0000022CDA2D09E0>",
+            "title": "hari om",
+            "author": "ram",
+            "total_copies": 4,
+            "available_copies": 4,
+            "added_on": "2026-05-18 22:04:41.923067"
+        },
+        {
+            "id": "B-ND049",
+            "title": "techno",
+            "author": "ujwal",
+            "total_copies": 35,
+            "available_copies": 34,
+            "added_on": "2026-05-18 22:06:16.430682"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-E3O6D",
+            "name": "aaryan",
+            "email": "aaryannerkar1@gmail.com",
+            "borowed": [
+                {
+                    "book_id": "B-ND049",
+                    "title": "techno",
+                    "borrow_on": "2026-05-18 22:41:46"
+                }
+            ]
+        }
+    ]
+}
